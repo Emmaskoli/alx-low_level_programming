@@ -18,5 +18,5 @@ int main(void)
 	_putchat("r");
 	_putchat("\n");
 
-	return (0); 
+	return (0);
 }
